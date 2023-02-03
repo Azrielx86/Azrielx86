@@ -7,12 +7,6 @@ Hello! My name is Edgar, I study Computer Engineering at the Faculty of Engineer
 - Python
 - Typescript
 
-### Operative Systems I use
-
-- Arch Linux
-- Fedora
-- Windows
-
 ### Most used languages
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS&exclude_repo=ProyectoFinalPOO)
 
