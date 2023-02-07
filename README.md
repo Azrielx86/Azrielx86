@@ -1,11 +1,14 @@
-Hello! My name is Edgar, I study Computer Engineering at the Faculty of Engineering at UNAM. I am currently in my fifth semester of college, I am interested in Linux and software development.
+Hi everyone! My name is Edgar, I'm studying Computer Engineering at the Faculty of Engineering at UNAM. I am currently in my sixth semester of college, I'm interested on software and game development.
 
-### My favorite programming languages
+### Technologies I use
 
-- C/C++
-- C#
-- Python
-- Typescript
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,python,angular,ts,js,linux&theme=dark)](https://skillicons.dev)
+
+<div>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
 
 ### Most used languages
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS&exclude_repo=ProyectoFinalPOO)
