@@ -1,3 +1,5 @@
+![Tohka image](./img/Banner.png)
+
 Hi everyone! My name is Edgar, I'm studying Computer Engineering at the Faculty of Engineering at UNAM. I am currently in my sixth semester of college, I'm interested on software and game development.
 
 ### Technologies I use
