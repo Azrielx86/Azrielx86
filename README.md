@@ -1,6 +1,12 @@
 ![Tohka image](./img/Banner.png)
 
-Hi everyone! My name is Edgar, I'm studying Computer Engineering at the Faculty of Engineering at UNAM. I am currently in my sixth semester of college, I'm interested on software and game development.
+Hi! I'm Edgar, I study Computer Engineering at the Faculty of Engineering (UNAM) <strong>(44.29%)</strong>. I am currently in the sixth semester of university.
+
+I'm interested in desktop/mobile apps, web, and game development.
+
+I use Linux for a few years ago, my main distro is Arch Linux, but I use Fedora as well. Also I use Windows for other tasks and gaming! :)
+
+My favorite programming languages are C# and Typescript :D
 
 ### Technologies I use
 
@@ -12,7 +18,8 @@ Hi everyone! My name is Edgar, I'm studying Computer Engineering at the Faculty 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
-### Most used languages
+### Most used Languages
+
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL&exclude_repo=ProyectoFinalPOO)
 
 ### Stats
@@ -20,4 +27,5 @@ Hi everyone! My name is Edgar, I'm studying Computer Engineering at the Faculty 
 ![Stats](https://github-readme-stats.vercel.app/api?username=edgarsfeic96&show_icons=true&theme=gotham)
 
 ### Contributions
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edgarsfeic96&theme=gotham)](https://git.io/streak-stats)
