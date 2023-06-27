@@ -20,7 +20,7 @@ My favorite programming languages are C# and Typescript :D
 
 ### Most used Languages
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL&exclude_repo=ProyectoFinalPOO)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL,Assembly&exclude_repo=ProyectoFinalPOO)
 
 ### Stats
 
