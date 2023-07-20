@@ -1,6 +1,6 @@
 ![Tohka image](./img/Banner.png)
 
-Hi! I'm Edgar, I study Computer Engineering at the Faculty of Engineering (UNAM) <strong>(44.29%)</strong>. I am currently in the sixth semester of university.
+Hi! I'm Edgar, I study Computer Engineering at the Faculty of Engineering (UNAM) <strong>(52.51%)</strong>. I am currently in the sixth semester of university.
 
 I'm interested in desktop/mobile apps, web, and game development.
 
@@ -20,12 +20,12 @@ My favorite programming languages are C# and Typescript :D
 
 ### Most used Languages
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarsFeic96&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL,Assembly&exclude_repo=ProyectoFinalPOO)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azrielx86&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL,Assembly&exclude_repo=ProyectoFinalPOO)
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=edgarsfeic96&show_icons=true&theme=gotham)
+![Stats](https://github-readme-stats.vercel.app/api?username=Azrielx86&show_icons=true&theme=gotham)
 
 ### Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edgarsfeic96&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azrielx86&theme=gotham)](https://git.io/streak-stats)
