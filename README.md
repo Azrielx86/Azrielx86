@@ -2,16 +2,26 @@
 
 I'm a Computer Engineering student at the Faculty of Engineering (UNAM) __(72.39%)__. Currently I'm in the eighth semester of university.
 
-I'm interested in desktop/mobile apps, web, and game development.
+I'm interested in desktop/mobile apps, web, and computer graphics development.
+
+Trying to learn OpenGL and Vulkan... :skull:
 
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,python,angular,ts,js,linux&theme=dark)
 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+### What I Use
+
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ## Most used Languages
 
