@@ -35,4 +35,4 @@ I'm interested in desktop/mobile apps, web, and computer graphics development.
 
 ### Other stuff :eyes:
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Azrielx86&show_user=header)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Azrielx86&show_user=header&footer_style=wave&width=600)](https://www.last.fm/user/Azrielx86)
