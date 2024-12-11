@@ -1,6 +1,6 @@
 # Hi! I'm Edgar
 
-I'm a Computer Engineering student at the Faculty of Engineering (UNAM) __(75.34%)__. Currently I'm in the eighth semester of university.
+I'm a Computer Engineering student at the Faculty of Engineering (UNAM) __(84.47%)__. Currently I'm in the tenth semester of university.
 
 I'm interested in desktop/mobile apps, web, and computer graphics development.
 
@@ -33,6 +33,6 @@ I'm interested in desktop/mobile apps, web, and computer graphics development.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azrielx86&theme=gotham)](https://git.io/streak-stats)
 
-### Other stuff :eyes:
+### What I listen to :eyes:
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Azrielx86&show_user=header&footer_style=wave&width=600)](https://www.last.fm/user/Azrielx86)
