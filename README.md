@@ -2,7 +2,9 @@
 
 I'm a Computer Engineering student at the Faculty of Engineering (UNAM) __(84.47%)__. Currently I'm in the tenth semester of university.
 
-I'm interested in desktop/mobile apps, web, and computer graphics development.
+I'm interested in mobile apps, web, and computer graphics development.
+
+Sometimes I like to do some stuff with microcontrollers, more like a hobbie :eyes:
 
 ## Skills
 
