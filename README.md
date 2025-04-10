@@ -25,7 +25,7 @@ Sometimes I like to do some stuff with microcontrollers, more like a hobbie :eye
 
 ## Most used Languages
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azrielx86&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL,Assembly&exclude_repo=ProyectoFinalPOO,PracticasComputoGrafico_2024-1)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azrielx86&theme=gotham&layout=compact&hide=HTML,CSS,SCSS,VHDL,Assembly,ShaderLab,PHP,HLSL&exclude_repo=ProyectoFinalPOO,PracticasComputoGrafico_2024-1)
 
 ## Stats
 
